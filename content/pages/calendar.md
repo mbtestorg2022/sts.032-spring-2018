@@ -4,31 +4,334 @@ title: Calendar
 uid: ba8c1996-d7ee-cc27-d21f-b61fd4f956e2
 ---
 
-| Ses # | Topics | Key Dates |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Linking Environments, Politics, and Societies in the 21st Century | &nbsp; |
-| 3 | Historically Assessing the Water-Energy-Food Nexus / Crisis (1) | &nbsp; |
-| 4 | Historically Assessing the Water-Energy-Food Nexus / Crisis (2) | &nbsp; |
-| 5 | Going Global and Comparative: Comparative Environmental Governance | &nbsp; |
-| 6 | Writing and Communication Workshop I | Essay 1 draft of 700 words must be brought to class |
-| 7 | Irrigation, Agriculture, and the Green Revolution | Essay 1 draft due |
-| 8 | Fishing Industries, the Blue Revolution, & Ocean Ecosystems (1) | &nbsp; |
-| 9 | Fishing Industries, the Blue Revolution, & Ocean Ecosystems (2) | Essay 1 revised paper due |
-| 10 | Water & Food Security | &nbsp; |
-| 11 | Writing and Communication Workshop II - Peer Review Session | Essay 2 draft of 1000 words & paper outline must be brought to class |
-| 12 | Power & Hydropower (1) | &nbsp; |
-| 13 | Power & Hydropower (2) | Essay 2 final paper due |
-| 14 | Urban Water Infrastructure & Waste Management (1) | &nbsp; |
-| 15 | Urban Water Infrastructure & Waste Management (2) | &nbsp; |
-| 16 | Water Law, Markets, & Neoliberalism (1) | &nbsp; |
-| 17 | Water Law, Markets, & Neoliberalism (2) | &nbsp; |
-| 18 | Gender, Race, & Water Security  | &nbsp; |
-| 19 | Virtual Waters: Integrating Energy, Waste, Agriculture, & Climate Policy (1) | Final Paper and Digital Communication Project drafts due |
-| 20 | Virtual Waters: Integrating Energy, Waste, Agriculture, & Climate Policy (2)  | &nbsp; |
-| 21 | Knowledge & Science in Environmental Policy (1) | &nbsp; |
-| 22 | Knowledge & Science in Environmental Policy (2) | &nbsp; |
-| 23 | Environmental Justice, Energy Security, & Policy Change (1) | &nbsp; |
-| 24 | Environmental Justice, Energy Security, & Policy Change (2) | &nbsp; |
-| 25 | Race, Democracy, & Global Environmental Governance (1) | _Student Presentations_  {{< br >}}Final Paper and Digital Communication Project due |
-| 26 | Race, Democracy, & Global Environmental Governance (2) | _Student Presentations_
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Ses #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Key Dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Linking Environments, Politics, and Societies in the 21st Century
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Historically Assessing the Water-Energy-Food Nexus / Crisis (1)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Historically Assessing the Water-Energy-Food Nexus / Crisis (2)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Going Global and Comparative: Comparative Environmental Governance
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Writing and Communication Workshop I
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 1 draft of 700 words must be brought to class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Irrigation, Agriculture, and the Green Revolution
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 1 draft due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Fishing Industries, the Blue Revolution, & Ocean Ecosystems (1)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Fishing Industries, the Blue Revolution, & Ocean Ecosystems (2)
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 1 revised paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Water & Food Security
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Writing and Communication Workshop II - Peer Review Session
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 2 draft of 1000 words & paper outline must be brought to class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Power & Hydropower (1)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Power & Hydropower (2)
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 2 final paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Urban Water Infrastructure & Waste Management (1)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Urban Water Infrastructure & Waste Management (2)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Water Law, Markets, & Neoliberalism (1)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Water Law, Markets, & Neoliberalism (2)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Gender, Race, & Water Security 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Virtual Waters: Integrating Energy, Waste, Agriculture, & Climate Policy (1)
+{{< tdclose >}}
+{{< tdopen >}}
+Final Paper and Digital Communication Project drafts due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Virtual Waters: Integrating Energy, Waste, Agriculture, & Climate Policy (2) 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Knowledge & Science in Environmental Policy (1)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Knowledge & Science in Environmental Policy (2)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Environmental Justice, Energy Security, & Policy Change (1)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Environmental Justice, Energy Security, & Policy Change (2)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Race, Democracy, & Global Environmental Governance (1)
+{{< tdclose >}}
+{{< tdopen >}}
+_Student Presentations_  
+Final Paper and Digital Communication Project due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Race, Democracy, & Global Environmental Governance (2)
+{{< tdclose >}}
+{{< tdopen >}}
+_Student Presentations_
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
